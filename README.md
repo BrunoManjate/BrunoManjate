@@ -5,8 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_f_manjate/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/845603981?text=Hello%2C%20how%20are%20you%3F%20I%20came%20from%20GitHub%2C%20can%20we%20talk%3F)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoManjate&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoManjate&hide_progress=true)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoManjate&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoManjate&hide_progress=true)
 
 ## Technologies I use in my day
 
