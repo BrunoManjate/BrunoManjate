@@ -35,6 +35,6 @@ With a foundation in Computer Networks & Cybersecurity
 ## Connect with Me  
 **Email:** brunomanjate2@gmail.com  
 **LinkedIn:** [Bruno Manjate](https://www.linkedin.com/in/brunomanjate)  
-**Portfolio:** [GitHub Projects]([https://github.com/BrunoManjate](https://sites.google.com/view/brunomanjate/home))  
+**Portfolio:** [GitHub Projects](https://sites.google.com/view/brunomanjate/home)  
 
 ---
